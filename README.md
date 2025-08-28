@@ -3,10 +3,11 @@
 Current CS undergrad student.
 
 ### Languages:
-* Python
+* Python - active
 * Java
-* C++ - currently learning
-* Risc-v assembly - currently learning
+* C++ - active
+* TypeScript - active
+* Risc V Assembly
 
 ### Preferred OS:
 Would love to dual boot but my laptop doesn't support multiple drives
